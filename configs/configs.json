@@ -1,0 +1,8 @@
+{
+  "telegram": {
+    "url":"https://api.telegram.org",
+    "polling_options": {
+      "timeout": 60
+    }
+  }
+}
