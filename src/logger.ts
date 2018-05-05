@@ -1,3 +1,5 @@
 import * as pino from 'pino'
 
-export { pino as logger }
+const logger = pino()
+
+export {logger }

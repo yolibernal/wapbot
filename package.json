@@ -13,7 +13,8 @@
     "lodash": "^4.17.5",
     "pino": "^4.15.3",
     "request": "^2.85.0",
-    "request-promise": "^4.2.2"
+    "request-promise": "^4.2.2",
+    "say": "^0.14.0"
   },
   "devDependencies": {
     "@types/node": "^9.6.1"
